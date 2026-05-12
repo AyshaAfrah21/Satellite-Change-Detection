@@ -265,6 +265,11 @@ Potential future improvements include:
 
 ---
 
+## Model Weights
+
+Google Drive Link:
+https://drive.google.com/file/d/1KDi6nSDRRarYIet4uT7B3iEKOPegfHoo/view?usp=sharing
+
 # Author
 
 Aysha Afrah
